@@ -1,4 +1,4 @@
 # question-2
 
-npm run-script start
-yarn start
+Install package by command as -> npm install or yarn install 
+Run by command as -> npm run-script start or yarn start
